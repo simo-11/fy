@@ -9,7 +9,7 @@ Kappaleissa 3 ja 4 javascriptiä (Node.js).
 Kappaleissa 5 - 16 Juliaa.
 
 ## 7
-kurssi 6 - aine ja säteily käyttäen Juliaa
+kurssi 6 - aine ja säteily käyttäen Juliaa poislukien kappaleet 15, 16 ja kertaus, joissa käytettiin R-kieltä.
 
 
 # Lisenssin tarkennus

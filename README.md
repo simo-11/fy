@@ -14,3 +14,6 @@ kurssi 6 - aine ja säteily käyttäen Juliaa poislukien kappaleet 15, 16 ja ker
 
 # Lisenssin tarkennus
 Tehtävien tekijänoikeus kuuluu Sanoma Oy:lle ja Apache lisenssin mukaisesti käytettävissä oleva osuus on tehtävien ratkaisu Jupyter Notebookia käyttäen.
+
+# Vaihtoehtoisia sivustoja
+Jos tavoitteena on fysiikan opiskelu lukion kursseja myötäillen on https://fysiikka.omaantahtiin.com/ tutustumisen arvoinen
